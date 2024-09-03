@@ -35,6 +35,7 @@ for i in list1:
 # to work properly. The output will be a map.
 # the filename is Baylor.html and it should
 # open up in your browser. The library is Plotly.
+import Plotly
 
 from plotly.graph_objs import Scattergeo, Layout
 from plotly import offline
